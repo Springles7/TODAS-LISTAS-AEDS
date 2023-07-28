@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689100341 source:z:\estudos prova\lista lucas\teste- 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

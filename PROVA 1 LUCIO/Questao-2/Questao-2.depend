@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689012701 source:z:\estudos prova\prova 1 lucio\questao-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

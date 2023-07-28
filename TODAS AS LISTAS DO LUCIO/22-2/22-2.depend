@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688764672 source:z:\estudos prova\todas as listas do lucio\22-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
